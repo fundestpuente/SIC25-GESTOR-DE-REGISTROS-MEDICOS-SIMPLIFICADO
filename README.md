@@ -83,12 +83,6 @@ GESTOR-DE-REGISTROS-MEDICOS-SIMPLIFICADO/
 - *Librerías principales:* <pandas, numpy, flask, fastapi, matplotlib.>
 - *Otras herramientas:* <GitHub Actions (CI), pytest>
 
----
-
-## 💡 Buenas prácticas y reglas internas
-- Trabajar únicamente dentro de la carpeta asignada al grupo.
-- Commits claros: feat: agrega función X, fix: corrige bug en Y, docs: actualiza README.
-- Mantener el README del proyecto actualizado con cambios importantes.
 
 
 
