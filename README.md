@@ -72,7 +72,7 @@ GESTOR-DE-REGISTROS-MEDICOS-SIMPLIFICADO/
 └── .gitignore
 
 
-> Nota: Ajusta la estructura según las necesidades de tu proyecto, pero mantén orden y claridad.
+
 
 ---
 
