@@ -7,13 +7,13 @@ pd.set_option("display.width", 180)
 pd.set_option("display.max_colwidth", 60)
 
 def menu():
-    print("\n=== GESTOR DE REGISTROS MÉDICOS SIMPLIFICADO ===")
+    print("\n====== GESTOR DE REGISTROS MÉDICOS SIMPLIFICADO ======")
     print("1) Cargar datos procesados")
     print("2) Mostrar primeros 20 registros")
     print("3) Ver información general del archivo")
     print("4) Mostrar resumen estadístico")
     print("0) Salir")
-    return input("Elige una opción: ")
+    return input("Elija una opción por favor: ")
 
 def cargar_datos():
     try:
