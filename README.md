@@ -50,8 +50,9 @@ Este proyecto aborda la dificultad que enfrentan consultorios y clínicas peque�
 
 ---
 
-## 📂 Estructura del Código (sugerida)
+## 📂 Estructura del Código
 
+```bash
 GESTOR-DE-REGISTROS-MEDICOS-SIMPLIFICADO/
 │
 ├── main.py               # Punto de entrada principal
@@ -70,6 +71,7 @@ GESTOR-DE-REGISTROS-MEDICOS-SIMPLIFICADO/
 │   ├── prevalencia_condicion_medica.png
 │   └── violin_condicion_medica.png
 └── .gitignore
+```
 
 
 
