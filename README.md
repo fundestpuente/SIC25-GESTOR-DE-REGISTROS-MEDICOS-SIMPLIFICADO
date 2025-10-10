@@ -84,9 +84,10 @@ GESTOR-DE-REGISTROS-MEDICOS-SIMPLIFICADO/
 - *Otras herramientas:* <GitHub Actions (CI), pytest>
 
 
-## Resultados 
+## 📠 Resultados 
 
 ![Matriz de correlación](graficos/correlacion.png)
+
 El análisis de correlación muestra que, en general, las variables del conjunto de datos no presentan relaciones lineales fuertes entre sí. Sin embargo, se identifica una correlación moderada entre la edad y la hipertensión, así como entre diabetes e hipertensión, lo que refleja la tendencia esperada de que estas enfermedades crónicas sean más frecuentes en personas mayores.
 
 
@@ -95,7 +96,7 @@ El análisis de correlación muestra que, en general, las variables del conjunto
 
 Los gráficos de distribución evidencian que la hipertensión y la diabetes se presentan principalmente en pacientes mayores de 40 años, mientras que el alcoholismo y la discapacidad aparecen con menor frecuencia y distribuidos en un rango de edad más amplio.
 
-
+## 💻 Conclusion  
 El análisis realizado evidencia que el Gestor de Registros Médicos Simplificado permite visualizar y analizar de forma clara los patrones de salud de una población, facilitando la identificación de relaciones relevantes entre edad y enfermedades crónicas.
 
 
